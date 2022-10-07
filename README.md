@@ -1,1 +1,1 @@
-# MOT_FCG
+# Repository for "Multiple Object Tracking from appearance by hierarchically clustering tracklets" paper in BMVC22
