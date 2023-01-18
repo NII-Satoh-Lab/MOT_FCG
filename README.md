@@ -64,11 +64,13 @@ python $TRACKEVAL_PATH/scripts/run_mot_challenge.py --TRACKERS_FOLDER $YOUR_PATH
 ## Citation
 
 ```
-@article{girbau2022multiple,
-  title={Multiple Object Tracking from appearance by hierarchically clustering tracklets},
-  author={Girbau, Andreu and Marqu{\'e}s, Ferran and Satoh, Shin'ichi},
-  journal={arXiv preprint arXiv:2210.03355},
-  year={2022}
+@inproceedings{Girbau_2022_BMVC,
+author    = {Andreu Girbau and Ferran Marques and Shin'ichi Satoh},
+title     = {Multiple Object Tracking from appearance by hierarchically clustering tracklets},
+booktitle = {33rd British Machine Vision Conference 2022, {BMVC} 2022, London, UK, November 21-24, 2022},
+publisher = {{BMVA} Press},
+year      = {2022},
+url       = {https://bmvc2022.mpi-inf.mpg.de/0362.pdf}
 }
 ```
 
